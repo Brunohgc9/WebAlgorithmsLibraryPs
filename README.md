@@ -25,14 +25,14 @@ Languages I like to torture myself with:
 
 I try to organize chaos:
 
-/Algorithms
-/Sorting
-/Searching
-/Graphs
-/DynamicProgramming
-/Geometry
-/AI
-/Misc
+- /Algorithms
+- /Sorting
+- /Searching
+- /Graphs
+- /DynamicProgramming
+- /Geometry
+- /AI
+- /Misc
 
 
 Each folder is a small battlefield. Expect **messy experiments, brutal edge cases, and random notes** explaining what made me rage-quit or what actually worked.
